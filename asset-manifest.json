@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/XavierReact/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/XavierReact/static/js/main.adf3db13.chunk.js",
+    "main.js.map": "/XavierReact/static/js/main.adf3db13.chunk.js.map",
+    "runtime-main.js": "/XavierReact/static/js/runtime-main.ab94b9f5.js",
+    "runtime-main.js.map": "/XavierReact/static/js/runtime-main.ab94b9f5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/XavierReact/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.09d8de1e.chunk.js": "/XavierReact/static/js/2.09d8de1e.chunk.js",
+    "static/js/2.09d8de1e.chunk.js.map": "/XavierReact/static/js/2.09d8de1e.chunk.js.map",
+    "static/js/3.302dd81e.chunk.js": "/XavierReact/static/js/3.302dd81e.chunk.js",
+    "static/js/3.302dd81e.chunk.js.map": "/XavierReact/static/js/3.302dd81e.chunk.js.map",
+    "index.html": "/XavierReact/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/XavierReact/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/XavierReact/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.09d8de1e.chunk.js.LICENSE.txt": "/XavierReact/static/js/2.09d8de1e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/XavierReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab94b9f5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.09d8de1e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.adf3db13.chunk.js"
+  ]
+}
